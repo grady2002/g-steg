@@ -22,4 +22,4 @@ Steganography can be used to conceal almost any type of digital content, includi
 
 # Deployed
 
-<a href="https://gsteg.grady2002.repl.co">https://gsteg.grady2002.repl.co</a>
+<a href="https://g-steg.grady2002.repl.co">https://g-steg.grady2002.repl.co</a>
