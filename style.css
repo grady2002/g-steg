@@ -1,0 +1,17 @@
+body {
+  margin: 2em;
+}
+main.home {
+  min-height: 90vh;
+  display: grid;
+  place-content: center;
+  gap: 10px;
+}
+
+.card {
+  margin: 20px 0;
+}
+#textCanvas {
+  opacity: 0;
+  pointer-events: none;
+}
